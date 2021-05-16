@@ -6,7 +6,7 @@
 body {
   font-family: "Montserrat", sans-serif;
   background: #f5f7fa;
-  padding: 40px;
+  padding: 20px;
 }
 .wrapper {
   background: white;
@@ -18,8 +18,8 @@ body {
 .sidebar {
   width: 370px;
   background: #232941;
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 .abut-me-container {
   padding-left: 90px;
